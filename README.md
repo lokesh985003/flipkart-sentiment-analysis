@@ -97,7 +97,7 @@ http://13.48.27.102:8501
 - AWS EC2  
 
 ---
-
+```
 ├── app.py
 │   └── Streamlit web application for real-time sentiment analysis
 ├── sentiment_model.pkl
@@ -110,7 +110,7 @@ http://13.48.27.102:8501
 │   └── Project dependencies
 └── README.md
     └── Project documentation
-
+```
 ---
 
 ## ✅ Conclusion
