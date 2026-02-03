@@ -123,4 +123,3 @@ A **Streamlit-based web application** was developed and deployed on **AWS EC2** 
 Overall, this project provides strong hands-on experience in **Natural Language Processing, Machine Learning, and Model Deployment**, fully aligning with the project and internship requirements.
 
 
-## 📁 Project Structure
