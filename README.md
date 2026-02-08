@@ -82,7 +82,7 @@ The following text vectorization techniques were implemented and evaluated:
 
 ### 🔗 Live Application
 **AWS Deployment URL:**  
-http://13.48.27.102:8501
+http://16.171.176.114:8501/
 
 ---
 
